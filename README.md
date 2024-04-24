@@ -1,6 +1,6 @@
 # weather_api
 
-A new Flutter project.
+A new Flutter project for usage of weather_api.
 
 ## Getting Started
 
