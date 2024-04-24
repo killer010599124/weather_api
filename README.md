@@ -1,16 +1,1 @@
-# weather_api
-
-A new Flutter project for usage of weather_api.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a demonstration of using Flutter to create a mobile application that accesses the Visual Crossing Weather API (https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/). This weather API allows you to access both forecast and historical weather data for use within any app or application. If you are interested in developing your own mobile weather application, please contact me.
